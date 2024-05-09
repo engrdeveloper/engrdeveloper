@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @engrdeveloper
+- 👀 I’m interested in building innovative and user-friendly web applications that  solve real-world problems.   Right now, I'm particularly fascinated with full-stack development.
+- 🌱 I’m currently learning all I can about server-side rendering (SSR) and its impact on SEO .  Always up for a challenge and eager to expand my knowledge!
+- 💞️ I’m looking to collaborate on open-source projects where I can contribute my skills and learn from others.  Teamwork makes the dream work!
+- 📫 How to reach me: Feel free to shoot me an email at engrsohaib.dev@gmail.com or connect with me on LinkedIn: linkedin.com/in/sohaibdev/
