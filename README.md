@@ -2,7 +2,7 @@
 
 🌟 𝑾𝒉𝒂𝒕 𝑰 𝑫𝒐 𝑩𝒆𝒔𝒕 🌟
 
-- 💻 Full-Stack Development: Full-Stack Development: Adept at building user-friendly interfaces (React, Vue.js, Angular, Next.js, Nuxt.js) backed by robust and scalable back-end solutions (Node.js, Nest.js, Express.js), with leveraging databases such as MySQL, MongoDB, and PostgreSQL. I am experienced with MERN, MEAN and MEVN,
+- 💻 Full-Stack Development: Adept at building user-friendly interfaces (React, Vue.js, Angular, Next.js, Nuxt.js) backed by robust and scalable back-end solutions (Node.js, Nest.js, Express.js), with leveraging databases such as MySQL, MongoDB, and PostgreSQL. I am experienced with MERN, MEAN and MEVN,
 - ☁️Cloud & DevOps: Hands-on experience with cloud technologies like AWS EC2, containerization with Docker, and configuring Nginx for optimized web service delivery.
 - 🔗 APIs & Integrations: Expert in integrating third-party APIs and developing custom APIs to extend app functionality, including social media integrations, messaging services like RabbitMQ, and cloud APIs.
 
