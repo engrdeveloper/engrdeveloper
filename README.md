@@ -2,7 +2,7 @@
 
 **Research & Development Engineer | M.Sc. Electrical Engineering | AI & Full-Stack Developer**
 
-📍 Evry, France | 📧 engrsohaib.dev@gmail.com | 🌐 [LinkedIn](https://linkedin.com/in/your-profile)
+📍 Evry, France | 📧 engrsohaib.dev@gmail.com | 🌐 [LinkedIn](https://linkedin.com/in/sohaibdev)
 
 ---
 
