@@ -1,6 +1,7 @@
 # Sohaib Siddique Butt
 
-**Research & Development Engineer | M.Sc. Electrical Engineering | AI & Full-Stack Developer**
+**R&D Engineer | AI & LLM Researcher | Full-Stack Developer**
+
 
 📍 Evry, France | 📧 engrsohaib.dev@gmail.com | 🌐 [LinkedIn](https://linkedin.com/in/sohaibdev)
 
