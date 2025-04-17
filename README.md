@@ -8,7 +8,7 @@
 
 ## About Me
 
-I am a dedicated Research and Development Engineer with a strong academic foundation in Electrical Engineering and a specialized focus on **Artificial Intelligence** and **Large Language Models (LLMs)**. My experience spans across **full-stack development**, **machine learning**, and **robotics**, with a passion for transforming complex ideas into impactful, real-world solutions.
+I am a dedicated Research and Development Engineer with a strong academic foundation in Electrical Engineering and a specialized focus on **Artificial Intelligence** and **Large Language Models (LLMs)**. My experience spans across **full-stack development**, **machine learning**, and **AI**, with a passion for transforming complex ideas into impactful, real-world solutions.
 
 I bring a practical, results-driven mindset to every project—whether it’s building scalable web platforms, optimizing machine learning pipelines, or conducting applied AI research.
 
