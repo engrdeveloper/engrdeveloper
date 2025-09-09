@@ -1,6 +1,6 @@
 # Sohaib Siddique Butt
 
-**R&D Engineer | AI & LLM | Full-Stack Developer**
+**Master M2 Student Paris Saclay| AI & LLM**
 
 
 📍 Evry, France | 📧 engrsohaib.dev@gmail.com | 🌐 [LinkedIn](https://linkedin.com/in/sohaibdev)
@@ -9,44 +9,8 @@
 
 ## About Me
 
-I am a dedicated Research and Development Engineer with a strong academic foundation in Electrical Engineering and a specialized focus on **Artificial Intelligence** and **Large Language Models (LLMs)**. My experience spans across **full-stack development**, **machine learning**, and **AI**, with a passion for transforming complex ideas into impactful, real-world solutions.
+I'm Sohaib Siddique Butt, a research and development engineer with a passion for innovation. My goal isn't just to write code, but to create smart and useful technologies. I'm a Master's student, specializing in Artificial Intelligence and Large Language Models (LLM). I use my skills in full-stack development and machine learning to create fast, reliable, and user-friendly systems. I enjoy transforming complex ideas into concrete tools that solve real-world problems.
 
-I bring a practical, results-driven mindset to every project—whether it’s building scalable web platforms, optimizing machine learning pipelines, or conducting applied AI research.
-
----
-
-## Core Competencies
-
-- **Programming:** TypeScript, JavaScript, Python, GoLang  
-- **Frontend:** React.js, Vue.js, Angular 17, Nuxt, Next.js, Tailwind CSS  
-- **Backend:** Node.js, Nest.js, Express.js, REST APIs, GraphQL  
-- **Databases:** PostgreSQL, MongoDB, MySQL, Supabase, Redis  
-- **DevOps & Cloud:** Docker, GitHub Actions, Microsoft Azure, AWS, Heroku  
-- **Tools & Systems:** RabbitMQ, BullMQ, Zustand, Clerk.dev, Git  
-
----
-
-## Selected Experience
-
-**Full Stack Developer** — *Yatr (Remote, USA)*  
-*May 2024 – Aug 2024*  
-- Built responsive, unified UI components with Angular 17 and TypeScript  
-- Integrated backend systems in GoLang and PostgreSQL  
-- Led R&D on performance optimization and Angular upgrades  
-
-**Software Engineer** — *OptimaGeeks (Pakistan)*  
-*Dec 2023 – Apr 2024*  
-- Developed a full-stack social platform using Vue, Nuxt, Node.js  
-- Designed a secure multi-provider authentication system  
-- Implemented SSR and optimized backend APIs with Nest.js  
-
-**Associate Engineer** — *Contegris Technology Solutions (Pakistan)*  
-*Jul 2022 – Nov 2023*  
-- Integrated omnichannel communication (Facebook, WhatsApp, LinkedIn, etc.)  
-- Built a License Management Portal reducing onboarding time by 80%  
-- Improved customer engagement via real-time messaging using RabbitMQ & WebSockets  
-
----
 
 ## Academic Research
 
@@ -68,25 +32,9 @@ I bring a practical, results-driven mindset to every project—whether it’s bu
 
 ---
 
-## Key Projects
-
-**Carenote – AI Mental Health Platform**  
-- Integrated ChatGPT APIs, built Supabase edge functions, and led GDPR compliance  
-- Deployed on Microsoft Azure with automated GitHub Actions workflows  
-
-**Appun – Influencer CRM & Messaging Tool**  
-- Full-stack development with Clerk.dev auth, Supabase backend, and WebSocket messaging  
-- Implemented Redis-backed BullMQ to manage Instagram API webhooks  
-
-**SketchNote – Content Publishing Platform**  
-- Developed microservices for cross-platform publishing (Facebook, Instagram, TikTok)  
-- Integrated YouTube, Shopify, and Facebook Ads APIs for real-time analytics dashboards  
-
----
-
 ## Let’s Connect
 
-I’m always open to discussing innovative ideas in AI, research collaborations, or full-stack solutions.  
-Feel free to explore my repositories and reach out.
+I’m always open to discussing innovative ideas in AI and research collaborations.  
+Feel free to explore my repositories, and don't hesitate to reach out.
 
 📫 **engrsohaib.dev@gmail.com**
