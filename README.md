@@ -13,7 +13,7 @@ I'm Sohaib Siddique Butt, a research and development engineer with a passion for
 
 ## Academic Research
 
-**Université Paris-Saclay – M2 Mechatronics, Machine Vision and Artificial Intelligence**  
+**Université Paris-Saclay – M2 with Machine Vision and Artificial Intelligence**  
 - My studies are focused on:
   - Gaining a strong foundation in core subjects like Machine Learning and Advances in Machine Vision.
   - Applying theoretical knowledge through a mandatory research project.
