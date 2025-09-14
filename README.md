@@ -11,7 +11,7 @@
 
 I'm Sohaib Siddique Butt, a research and development engineer with a passion for innovation. My goal isn't just to write code, but to create smart and useful technologies. I'm a Master's student, specializing in Artificial Intelligence and Large Language Models (LLM). I use my skills in full-stack development and machine learning to create fast, reliable, and user-friendly systems. I enjoy transforming complex ideas into concrete tools that solve real-world problems.
 
-## Academic Research
+## Academic Background
 
 **Université Paris-Saclay – M2 with Machine Vision and Artificial Intelligence**  
 - My studies are focused on:
